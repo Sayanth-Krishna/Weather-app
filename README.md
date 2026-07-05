@@ -3,7 +3,7 @@
 > 🧠 Built as part of **The Odin Project’s JavaScript curriculum**.  
 > This project focuses on working with **APIs**, **asynchronous JavaScript**, **modular code architecture**, and **Webpack bundling**.
 
-👉 **[Live Preview](https://sealedowl.github.io/Weather-app/)**
+👉 **[Live Preview](https://sayanth-krishna.github.io/Weather-app/)**
 
 ---
 
@@ -45,7 +45,7 @@ Users can search for any location to view current weather conditions, hourly for
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/SealedOwl/Weather-app.git
+git clone https://github.com/Sayanth-Krishna/Weather-app.git
 
 ```
 
